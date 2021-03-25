@@ -3,5 +3,5 @@
 - Born in 1998 / Graduated from Baku Engineering University / as Financer
 - Skils: MySQL / PostgreSQL / Tableu
 - I'm currently learning R and Python. 
-- Check it if you wan to contact me. EMail:Tale.Alizade@gmail.com 
+- Check it if you want to contact me. EMail:Tale.Alizade@gmail.com 
 
