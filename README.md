@@ -14,3 +14,5 @@
   <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="150">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="150">
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=C3ptV3&show_icons=true)![Profile views](https://gpvc.arturio.dev/C3ptV3)
