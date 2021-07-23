@@ -1,5 +1,5 @@
 - 👋 Hi, My name is TALEH
-- I'm a business analyst who focuses mainly on data manipulation and data visualization.
+- I'm a data analyst who focuses mainly on data manipulation and data visualization.
 - Born in 1998 / Graduated from Baku Engineering University / as Financer
 - Skils: MySQL / PostgreSQL / Tableu / Power BI
 - I'm currently learning R and Python. 
